@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on running local AI models.
-- 🌱 I’m currently learning OpenClaw.
+- 🔭 I’m currently working on agentic workflows.
+- 🌱 I’m currently learning how to put AI agents to effective use.
